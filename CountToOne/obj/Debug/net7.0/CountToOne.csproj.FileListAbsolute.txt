@@ -1,0 +1,15 @@
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/bin/Debug/net7.0/CountToOne
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/bin/Debug/net7.0/CountToOne.deps.json
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/bin/Debug/net7.0/CountToOne.runtimeconfig.json
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/bin/Debug/net7.0/CountToOne.dll
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/bin/Debug/net7.0/CountToOne.pdb
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.csproj.AssemblyReference.cache
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.AssemblyInfoInputs.cache
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.AssemblyInfo.cs
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.csproj.CoreCompileInputs.cache
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.dll
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/refint/CountToOne.dll
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.pdb
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/CountToOne.genruntimeconfig.cache
+/Users/josephcarrillo/Projects/CountToOne/CountToOne/obj/Debug/net7.0/ref/CountToOne.dll
