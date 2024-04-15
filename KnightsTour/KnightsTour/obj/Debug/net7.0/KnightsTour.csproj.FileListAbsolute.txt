@@ -1,0 +1,15 @@
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.csproj.AssemblyReference.cache
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.AssemblyInfoInputs.cache
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.AssemblyInfo.cs
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.csproj.CoreCompileInputs.cache
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/bin/Debug/net7.0/KnightsTour
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/bin/Debug/net7.0/KnightsTour.deps.json
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/bin/Debug/net7.0/KnightsTour.runtimeconfig.json
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/bin/Debug/net7.0/KnightsTour.dll
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/bin/Debug/net7.0/KnightsTour.pdb
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.dll
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/refint/KnightsTour.dll
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.pdb
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/KnightsTour.genruntimeconfig.cache
+/Users/josephcarrillo/Projects/KnightsTour/KnightsTour/obj/Debug/net7.0/ref/KnightsTour.dll
