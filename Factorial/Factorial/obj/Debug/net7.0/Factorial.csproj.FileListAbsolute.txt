@@ -1,0 +1,15 @@
+/Users/josephcarrillo/Projects/Factorial/Factorial/bin/Debug/net7.0/Factorial
+/Users/josephcarrillo/Projects/Factorial/Factorial/bin/Debug/net7.0/Factorial.deps.json
+/Users/josephcarrillo/Projects/Factorial/Factorial/bin/Debug/net7.0/Factorial.runtimeconfig.json
+/Users/josephcarrillo/Projects/Factorial/Factorial/bin/Debug/net7.0/Factorial.dll
+/Users/josephcarrillo/Projects/Factorial/Factorial/bin/Debug/net7.0/Factorial.pdb
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.csproj.AssemblyReference.cache
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfoInputs.cache
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.AssemblyInfo.cs
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.dll
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/refint/Factorial.dll
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.pdb
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/Factorial.genruntimeconfig.cache
+/Users/josephcarrillo/Projects/Factorial/Factorial/obj/Debug/net7.0/ref/Factorial.dll
